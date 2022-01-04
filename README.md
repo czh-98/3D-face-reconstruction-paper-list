@@ -115,12 +115,16 @@ Ayush Tewari, Michael Zollhöfer, Pablo Garrido, Florian Bernard, Hyeongwoo Kim,
 Kyle Genova, Forrester Cole, Aaron Maschinot, Aaron Sarna, Daniel Vlasic, William T. Freeman</br>
 [[arxiv]](https://arxiv.org/abs/1806.06098)[[code]](https://github.com/google/tf_mesh_renderer)
 
++ **Nonlinear 3D Face Morphable Model**</br>
+Luan Tran, Xiaoming Liu</br>
+[[arxiv]](https://arxiv.org/abs/1804.03786)[[page]](http://cvlab.cse.msu.edu/project-nonlinear-3dmm.html)[[code]](https://github.com/tranluan/Nonlinear_Face_3DMM)
+
 ### 2017
 + **Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network**</br>
 Anh Tuan Tran, Tal Hassner, Iacopo Masi, Gerard Medioni</br>
 [[arxiv]](https://arxiv.org/abs/1612.04904)[[code]](https://github.com/anhttran/3dmm_cnn)
 
-+ 
+
 
 ### -2015
 + **Optimal Step Nonrigid ICP Algorithms for Surface Registration**</br>
