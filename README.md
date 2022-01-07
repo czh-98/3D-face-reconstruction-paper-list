@@ -142,7 +142,9 @@ Zhongpai Gao, Juyong Zhang, Yudong Guo, Chao Ma, Guangtao Zhai, Xiaokang Yang</b
 Yu Deng, Jiaolong Yang, Sicheng Xu, Dong Chen, Yunde Jia, Xin Tong</br>
 [[arxiv]](https://arxiv.org/abs/1903.08527)[[code]](https://github.com/microsoft/Deep3DFaceReconstruction)
 
-
++ **Real-time Facial Surface Geometry from Monocular Video on Mobile GPUs**</br>
+Yury Kartynnik, Artsiom Ablavatski, Ivan Grishchenko, Matthias Grundmann</br>
+[[arxiv]](https://arxiv.org/abs/1907.06724)[[code]](https://github.com/thepowerfuldeez/facemesh.pytorch)
 
 
 ## ICCV
