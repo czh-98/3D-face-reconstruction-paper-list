@@ -36,7 +36,9 @@ Ziqian Bai, Zhaopeng Cui, Xiaoming Liu, Ping Tan</br>
 Tao Hu, Liwei Wang, Xiaogang Xu, Shu Liu, Jiaya Jia</br>
 [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Self-Supervised_3D_Mesh_Reconstruction_From_Single_Images_CVPR_2021_paper.html)[[code]](https://github.com/dvlab-research/SMR)
 
-+ 
++ **i3DMM: Deep Implicit 3D Morphable Model of Human Heads**</br>
+Tarun Yenamandra, Ayush Tewari, Florian Bernard, Hans-Peter Seidel, Mohamed Elgharib, Daniel Cremers, Christian Theobalt</br>
+[[arxiv]](https://arxiv.org/abs/2011.14143.pdf)[[code]](https://github.com/tarun738/i3DMM)
 
 ### 2020
 + **A Morphable Face Albedo Model** </br>
