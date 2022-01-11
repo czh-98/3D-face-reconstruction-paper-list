@@ -38,7 +38,7 @@ Tao Hu, Liwei Wang, Xiaogang Xu, Shu Liu, Jiaya Jia</br>
 
 + **i3DMM: Deep Implicit 3D Morphable Model of Human Heads**</br>
 Tarun Yenamandra, Ayush Tewari, Florian Bernard, Hans-Peter Seidel, Mohamed Elgharib, Daniel Cremers, Christian Theobalt</br>
-[[arxiv]](https://arxiv.org/abs/2011.14143.pdf)[[code]](https://github.com/tarun738/i3DMM)
+[[arxiv]](https://arxiv.org/abs/2011.14143.pdf)[[page]](https://vcai.mpi-inf.mpg.de/projects/i3DMM/)[[code]](https://github.com/tarun738/i3DMM)
 
 ### 2020
 + **A Morphable Face Albedo Model** </br>
@@ -78,9 +78,11 @@ Shangzhe Wu, Christian Rupprecht, Andrea Vedaldi</br>
 + **Combining 3D Morphable Models: A Large scale Face-and-Head Model**</br>
 Stylianos Ploumpis, Haoyang Wang, Nick Pears, William A. P. Smith, Stefanos Zafeiriou</br>
 [[arxiv]](https://arxiv.org/abs/1903.03785)[[code]](https://github.com/nabeel3133/combining3Dmorphablemodels)
+
 + **FML: Face Model Learning From Videos**</br>
 Ayush Tewari, Florian Bernard, Pablo Garrido, Gaurav Bharaj, Mohamed Elgharib, Hans-Peter Seidel, Patrick Perez, Michael Zollhofer, Christian Theobalt</br>
 [[arxiv]](https://arxiv.org/abs/1812.07603)
+
 + **GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction**</br>
 Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou</br>
 [[arxiv]](https://arxiv.org/abs/1902.05978)[[code]](https://github.com/barisgecer/GANFit)
@@ -92,6 +94,7 @@ Soubhik Sanyal, Timo Bolkart, Haiwen Feng, Michael J. Black</br>
 + **MMFace: A Multi-Metric Regression Network for Unconstrained Face Reconstruction**</br>
 Hongwei Yi, Chen Li, Qiong Cao, Xiaoyong Shen, Sheng Li, Guoping Wang, Yu-Wing Tai</br>
 [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/html/Yi_MMFace_A_Multi-Metric_Regression_Network_for_Unconstrained_Face_Reconstruction_CVPR_2019_paper.html)
+
 + **MVF-Net: Multi-View 3D Face Morphable Model Regression**</br>
 Fanzi Wu, Linchao Bao, Yajing Chen, Yonggen Ling, Yibing Song, Songnan Li, King Ngi Ngan, Wei Liu</br>
 [[arxiv]](https://arxiv.org/abs/1904.04473)
