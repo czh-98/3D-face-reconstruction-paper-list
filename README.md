@@ -120,7 +120,14 @@ Kyle Genova, Forrester Cole, Aaron Maschinot, Aaron Sarna, Daniel Vlasic, Willia
 Anh Tuan Tran, Tal Hassner, Iacopo Masi, Gerard Medioni</br>
 [[arxiv]](https://arxiv.org/abs/1612.04904)[[code]](https://github.com/anhttran/3dmm_cnn)
 
-+ 
+
+### 2016
++ **A 3D Morphable Model learnt from 10,000 faces**</br>
+James Booth, Anastasios Roussos, Stefanos Zafeiriou, Allan Ponniah, David Dunaway</br>
+[[pdf]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Booth_A_3D_Morphable_CVPR_2016_paper.pdf)[[code]](https://github.com/menpo/lsfm)
+
+
+
 
 ### -2015
 + **Optimal Step Nonrigid ICP Algorithms for Surface Registration**</br>
@@ -142,22 +149,159 @@ Yu Deng, Jiaolong Yang, Sicheng Xu, Dong Chen, Yunde Jia, Xin Tong</br>
 
 
 ## ICCV
+### 2021
++ **H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction**</br>
+Eduard Ramon, Gil Triginer, Janna Escur, Albert Pumarola, Jaime Garcia, Xavier Giro-i-Nieto, Francesc Moreno-Noguer</br>
+[[arxiv]](https://arxiv.org/abs/2107.12512)[[code]](https://github.com/CrisalixSA/h3ds)
+
++ **Self-Supervised 3D Face Reconstruction via Conditional Estimation**</br>
+Yandong Wen, Weiyang Liu, Bhiksha Raj, Rita Singh</br>
+[[arxiv]](https://arxiv.org/abs/2110.04800)
+
++ **Topologically Consistent Multi-View Face Inference Using Volumetric Sampling**</br>
+Tianye Li, Shichen Liu, Timo Bolkart, Jiayi Liu, Hao Li, Yajie Zhao</br>
+[[arxiv]](https://arxiv.org/abs/2110.02948)[[page]](https://tianyeli.github.io/tofu)[[code]](https://github.com/tianyeli/tofu)
+
+
++ **Towards High Fidelity Monocular Face Reconstruction with Rich Reflectance using Self-supervised Learning and Ray Tracing**</br>
+Abdallah Dib, Cedric Thebault, Junghyun Ahn, Philippe-Henri Gosselin, Christian Theobalt, Louis Chevallier</br>
+[[arxiv]](https://arxiv.org/abs/2103.15432)
+
+
+### 2019
++ **DF<sup>2</sup>Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction**</br>
+Xiaoxing Zeng, Xiaojiang Peng, Yu Qiao</br>
+[[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf)[[code]](https://github.com/xiaoxingzeng/DF2Net)
+
++ **Photo-Realistic Facial Details Synthesis from Single Image**</br>
+Anpei Chen, Zhang Chen, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu</br>
+[[arxiv]](https://arxiv.org/abs/1903.10873)[[code]](https://github.com/apchenstu/Facial_Details_Synthesis)
+
+
++ **Semi-Supervised Monocular 3D Face Reconstruction With End-to-End Shape-Preserved Domain Transfer**</br>
+Jingtan Piao, Chen Qian, Hongsheng Li</br>
+[[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Semi-Supervised_Monocular_3D_Face_Reconstruction_With_End-to-End_Shape-Preserved_Domain_Transfer_ICCV_2019_paper.pdf)
+
+
+
++ **Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning**</br>
+Shichen Liu, Tianye Li, Weikai Chen, Hao Li</br>
+[[arxiv]](https://arxiv.org/abs/1904.01786)[[code]](https://github.com/ShichenLiu/SoftRas)
+
+
+
+
+
+### 2017
++ **MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction**</br>
+Ayush Tewari, Michael Zollhöfer, Hyeongwoo Kim, Pablo Garrido, Florian Bernard, Patrick Pérez, Christian Theobalt</br>
+[[arxiv]](https://arxiv.org/abs/1703.10580)
+
++ **Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation**</br>
+Matan Sela, Elad Richardson, Ron Kimmel</br>
+[[arxiv]](https://arxiv.org/abs/1703.10131)[[code]](https://github.com/matansel/pix2vertex)
+
+
++ **A 3D Morphable Model of Craniofacial Shape and Texture Variation**</br>
+Hang Dai, Nick Pears, William Smith, Christian Duncan</br>
+[[pdf]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_A_3D_Morphable_ICCV_2017_paper.pdf)[[page]](https://www-users.cs.york.ac.uk/~nep/research/LYHM/)
+
+
+## ICCVW
+### 2019
++ **Dual Attention MobDenseNet(DAMDNet) for Robust 3D Face Alignment**</br>
+Lei Jiang, Xiao-Jun Wu, Josef Kittler</br>
+[[arxiv]](https://arxiv.org/abs/1908.11821)[[code]](https://github.com/LeiJiangJNU/DAMDNet)
+
+
 
 
 ## ECCV
 
+### 2020
++ **Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction**</br>
+Xiangyu Zhu, Fan Yang, Di Huang, Chang Yu, Hao Wang, Jianzhu Guo, Zhen Lei, Stan Z. Li</br>
+[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530341.pdf)[[page]](https://github.com/XiangyuZhu-open/Beyond3DMM)
+
++ **Personalized Face Modeling for Improved Face Reconstruction and Motion Retargeting**</br>
+Bindita Chaudhuri, Noranart Vesdapunt, Linda Shapiro, Baoyuan Wang</br>
+[[arxiv]](https://arxiv.org/abs/2007.06759)[[page]](https://bindita.github.io/personalizedfacemodeling.html)
+
++ **Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency**</br>
+Jiaxiang Shang, Tianwei Shen, Shiwei Li, Lei Zhou, Mingmin Zhen, Tian Fang, Long Quan</br>
+[[arxiv]](https://arxiv.org/abs/2007.12494)[[code]](https://arxiv.org/abs/2007.12494)
+
+
++ **Towards Fast, Accurate and Stable 3D Dense Face Alignment**</br>
+Jianzhu Guo, Xiangyu Zhu, Yang Yang, Fan Yang, Zhen Lei, Stan Z. Li</br>
+[[arxiv]](https://arxiv.org/abs/2009.09960)[[code]](https://github.com/cleardusk/3DDFA_V2)
+
+
+
+
 ## SIGGRAPH/TOG
+
+### 2021
++ **High-Fidelity 3D Digital Human Head Creation from RGB-D Selfies**</br>
+Linchao Bao, Xiangkai Lin, Yajing Chen, Haoxian Zhang, Sheng Wang, Xuefei Zhe, Di Kang, Haozhi Huang, Xinwei Jiang, Jue Wang, Dong Yu, Zhengyou Zhang</br>
+[[arxiv]](https://arxiv.org/abs/2010.05562)[[page]](https://tencent-ailab.github.io/hifi3dface_projpage/)[[code]](https://github.com/tencent-ailab/hifi3dface)
+
+
++ **Learning an Animatable Detailed 3D Face Model from In-The-Wild Images**</br>
+Yao Feng, Haiwen Feng, Michael J. Black, Timo Bolkart</br>
+[[arxiv]](https://arxiv.org/abs/2012.04012)[[page]](https://deca.is.tue.mpg.de/)[[code]](https://github.com/YadiraF/DECA)
+
+
+
+### 2020
++ **3D Morphable Face Models -- Past, Present and Future**</br>
+Bernhard Egger, William A. P. Smith, Ayush Tewari, Stefanie Wuhrer, Michael Zollhoefer, Thabo Beeler, Florian Bernard, Timo Bolkart, Adam Kortylewski, Sami Romdhani, Christian Theobalt, Volker Blanz, Thomas Vetter</br>
+[[arxiv]](https://arxiv.org/abs/1909.01815)[[page]](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data)
+
+
+
+### 2017
++ **Learning a model of facial shape and expression from 4D scans**</br>
+Tianye Li, Timo Bolkart, Michael J. Black, Hao Li, Javier Romero</br>
+[[pdf]](https://arxiv.org/abs/1909.01815)[[page]](https://flame.is.tue.mpg.de/)[[code]](https://github.com/Rubikplayer/flame-fitting)
+
+
+### -2015
++ **A morphable model for the synthesis of 3D faces**</br>
+Volker Blanz, Thomas Vetter</br>
+[[pdf]](https://dl.acm.org/doi/10.1145/311535.311556)
+
++ **Face transfer with multilinear models**</br>
+Daniel Vlasic, Matthew Brand, Hanspeter Pfister, Jovan Popovic</br>
+[[pdf]](https://dl.acm.org/doi/abs/10.1145/1185657.1185864?casa_token=vE8BDyzePDwAAAAA:iz4VoT35V7kOtQhwPm1w3fvSvLnmf_ibhEtq8UG9K-j8_HaBIJltrDxw81WrZzU3r2Qad_4HPRjcLx0)
+
 
 
 ## ICLR
+### 2021
 
++ **Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs**</br>
+Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo</br>
+[[arxiv]](https://arxiv.org/abs/2011.00844)[[page]](https://xingangpan.github.io/projects/GAN2Shape.html)[[code]](https://github.com/XingangPan/GAN2Shape)
 
-## ICML
+<!-- ## ICML -->
 
 ## IJCV
 
 
-## NeurIPS
+### 2020
+
++ **Statistical Modeling of Craniofacial Shape and Texture**</br>
+Hang Dai, Nick Pears, William Smith, Christian Duncan</br>
+[[pdf]](https://link.springer.com/article/10.1007/s11263-019-01260-7)[[page]](https://www-users.cs.york.ac.uk/~nep/research/LYHM/)
+
+### 2017
++ **Large Scale 3D Morphable Modelss**</br>
+James Booth, Anastasios Roussos, Allan Ponniah, David Dunaway, Stefanos Zafeiriou</br>
+[[pdf]](https://link.springer.com/article/10.1007/s11263-017-1009-7)[[code]](https://github.com/menpo/lsfm)
+
+
+<!-- ## NeurIPS -->
 
 
 ## TPAMI
