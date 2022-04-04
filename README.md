@@ -36,7 +36,9 @@ Ziqian Bai, Zhaopeng Cui, Xiaoming Liu, Ping Tan</br>
 Tao Hu, Liwei Wang, Xiaogang Xu, Shu Liu, Jiaya Jia</br>
 [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Self-Supervised_3D_Mesh_Reconstruction_From_Single_Images_CVPR_2021_paper.html)[[code]](https://github.com/dvlab-research/SMR)
 
-+ 
++ **i3DMM: Deep Implicit 3D Morphable Model of Human Heads**</br>
+Tarun Yenamandra, Ayush Tewari, Florian Bernard, Hans-Peter Seidel, Mohamed Elgharib, Daniel Cremers, Christian Theobalt</br>
+[[arxiv]](https://arxiv.org/abs/2011.14143)[[page]](https://vcai.mpi-inf.mpg.de/projects/i3DMM/)[[code]](https://github.com/tarun738/i3DMM)
 
 ### 2020
 + **A Morphable Face Albedo Model** </br>
@@ -115,6 +117,13 @@ Ayush Tewari, Michael Zollhöfer, Pablo Garrido, Florian Bernard, Hyeongwoo Kim,
 Kyle Genova, Forrester Cole, Aaron Maschinot, Aaron Sarna, Daniel Vlasic, William T. Freeman</br>
 [[arxiv]](https://arxiv.org/abs/1806.06098)[[code]](https://github.com/google/tf_mesh_renderer)
 
+
++ **Nonlinear 3D Face Morphable Model**</br>
+Luan Tran, Xiaoming Liu</br>
+[[arxiv]](https://arxiv.org/abs/1804.03786)[[page]](http://cvlab.cse.msu.edu/project-nonlinear-3dmm.html)[[code]](https://github.com/tranluan/Nonlinear_Face_3DMM)
+
+
+
 ### 2017
 + **Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network**</br>
 Anh Tuan Tran, Tal Hassner, Iacopo Masi, Gerard Medioni</br>
@@ -145,7 +154,9 @@ Zhongpai Gao, Juyong Zhang, Yudong Guo, Chao Ma, Guangtao Zhai, Xiaokang Yang</b
 Yu Deng, Jiaolong Yang, Sicheng Xu, Dong Chen, Yunde Jia, Xin Tong</br>
 [[arxiv]](https://arxiv.org/abs/1903.08527)[[code]](https://github.com/microsoft/Deep3DFaceReconstruction)
 
-
++ **Real-time Facial Surface Geometry from Monocular Video on Mobile GPUs**</br>
+Yury Kartynnik, Artsiom Ablavatski, Ivan Grishchenko, Matthias Grundmann</br>
+[[arxiv]](https://arxiv.org/abs/1907.06724)[[code]](https://github.com/thepowerfuldeez/facemesh.pytorch)
 
 
 ## ICCV
@@ -167,6 +178,16 @@ Tianye Li, Shichen Liu, Timo Bolkart, Jiayi Liu, Hao Li, Yajie Zhao</br>
 Abdallah Dib, Cedric Thebault, Junghyun Ahn, Philippe-Henri Gosselin, Christian Theobalt, Louis Chevallier</br>
 [[arxiv]](https://arxiv.org/abs/2103.15432)
 
++ **ARAPReg: An As-Rigid-As Possible Regularization Loss for Learning Deformable Shape Generators**</br>
+Qixing Huang, Xiangru Huang, Bo Sun, Zaiwei Zhang, Junfeng Jiang, Chandrajit Bajaj</br>
+[[arxiv]](https://arxiv.org/abs/2108.09432)[[code]](https://github.com/gitbosun/arapreg)
+
+
++ **Learning High-Fidelity Face Texture Completion without Complete Face Texture**</br>
+Jongyoo Kim, Jiaolong Yang, Xin Tong</br>
+[[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Learning_High-Fidelity_Face_Texture_Completion_Without_Complete_Face_Texture_ICCV_2021_paper.pdf)
+
+
 
 ### 2019
 + **DF<sup>2</sup>Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction**</br>
@@ -187,6 +208,11 @@ Jingtan Piao, Chen Qian, Hongsheng Li</br>
 + **Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning**</br>
 Shichen Liu, Tianye Li, Weikai Chen, Hao Li</br>
 [[arxiv]](https://arxiv.org/abs/1904.01786)[[code]](https://github.com/ShichenLiu/SoftRas)
+
+
++ **Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation**</br>
+Giorgos Bouritsas, Sergiy Bokhnyak, Stylianos Ploumpis, Michael Bronstein, Stefanos Zafeiriou</br>
+[[arxiv]](https://arxiv.org/abs/1905.02876)[[code]](https://github.com/gbouritsas/Neural3DMM)
 
 
 
@@ -235,6 +261,16 @@ Jiaxiang Shang, Tianwei Shen, Shiwei Li, Lei Zhou, Mingmin Zhen, Tian Fang, Long
 + **Towards Fast, Accurate and Stable 3D Dense Face Alignment**</br>
 Jianzhu Guo, Xiangyu Zhu, Yang Yang, Fan Yang, Zhen Lei, Stan Z. Li</br>
 [[arxiv]](https://arxiv.org/abs/2009.09960)[[code]](https://github.com/cleardusk/3DDFA_V2)
+
+
++ **Inequality-Constrained and Robust 3D Face Model Fitting**</br>
+Evangelos Sariyanidi, Casey J. Zampella, Robert T. Schultz, Birkan Tunc</br>
+[[pdf]](ecva.net/papers/eccv_2020/papers_ECCV/papers/123540409.pdf)[[code]](https://github.com/sariyanidi/3DI)
+
+
++ **“Look Ma, no landmarks!” – Unsupervised, model-based dense face alignment**</br>
+Tatsuro Koizumi and William A. P. Smith</br>
+[[pdf]]([ecva.net/papers/eccv_2020/papers_ECCV/papers/123540409.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470681.pdf))[[page]](https://github.com/kzmttr/UMDFA)
 
 
 
