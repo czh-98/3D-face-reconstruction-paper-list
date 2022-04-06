@@ -5,6 +5,22 @@ Paper list of some 3D face reconstruction. To be continued.
 
 ## CVPR 
 
+### 2022
++ **3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow**</br>
+Xin Wen, Junsheng Zhou, Yu-Shen Liu, Zhen Dong, Zhizhong Han</br>
+[[arxiv]](https://arxiv.org/abs/2203.15190)[[code]](https://github.com/junshengzhou/3DAttriFlow)
+
+
++ **Neural Head Avatars from Monocular RGB Videos**</br>
+Philip-William Grassal Malte Prinzler, Titus Leistner, Carsten Rother, Matthias Nießner, Justus Thies</br>
+[[arxiv]](https://arxiv.org/abs/2112.01554)[[page]](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)
+
++ **I M Avatar: Implicit Morphable Head Avatars from Videos**</br>
+Yufeng Zheng, Victoria Fernández Abrevaya, Marcel C. Bühler, Xu Chen, Michael J. Black, Otmar Hilliges</br>
+[[arxiv]](https://arxiv.org/abs/2112.07471)[[page]](https://ait.ethz.ch/projects/2022/IMavatar/)
+
+
+
 ### 2021
 + **Inverting Generative Adversarial Renderer for Face Reconstruction**</br>
 Jingtan Piao, Keqiang Sun, KwanYee Lin, Quan Wang, Hongsheng Li</br>
@@ -39,6 +55,12 @@ Tao Hu, Liwei Wang, Xiaogang Xu, Shu Liu, Jiaya Jia</br>
 + **i3DMM: Deep Implicit 3D Morphable Model of Human Heads**</br>
 Tarun Yenamandra, Ayush Tewari, Florian Bernard, Hans-Peter Seidel, Mohamed Elgharib, Daniel Cremers, Christian Theobalt</br>
 [[arxiv]](https://arxiv.org/abs/2011.14143)[[page]](https://vcai.mpi-inf.mpg.de/projects/i3DMM/)[[code]](https://github.com/tarun738/i3DMM)
+
+
++ **High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation**</br>
+Lele Chen, Chen Cao, Fernando De la Torre, Jason Saragih, Chenliang Xu, Yaser Sheikh</br>
+[[arxiv]](https://arxiv.org/abs/2103.15876)[[page]](https://www.cs.rochester.edu/u/lchen63/cvpr21/index.html)
+
 
 ### 2020
 + **A Morphable Face Albedo Model** </br>
@@ -233,6 +255,12 @@ Hang Dai, Nick Pears, William Smith, Christian Duncan</br>
 [[pdf]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_A_3D_Morphable_ICCV_2017_paper.pdf)[[page]](https://www-users.cs.york.ac.uk/~nep/research/LYHM/)
 
 
++ **Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression**</br>
+Aaron S. Jackson, Adrian Bulat, Vasileios Argyriou, Georgios Tzimiropoulos</br>
+[[arxiv]](https://arxiv.org/abs/1703.07834)[[page]](http://aaronsplace.co.uk/papers/jackson2017recon/)[[code]](https://github.com/AaronJackson/vrn)
+
+
+
 ## ICCVW
 ### 2019
 + **Dual Attention MobDenseNet(DAMDNet) for Robust 3D Face Alignment**</br>
@@ -272,6 +300,10 @@ Evangelos Sariyanidi, Casey J. Zampella, Robert T. Schultz, Birkan Tunc</br>
 Tatsuro Koizumi and William A. P. Smith</br>
 [[pdf]]([ecva.net/papers/eccv_2020/papers_ECCV/papers/123540409.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470681.pdf))[[page]](https://github.com/kzmttr/UMDFA)
 
+### 2018
++ **Generating 3D faces using Convolutional Mesh Autoencoders**</br>
+Anurag Ranjan, Timo Bolkart, Soubhik Sanyal, Michael J. Black</br>
+[[arxiv]](https://arxiv.org/abs/1807.10267)[[page]](https://coma.is.tue.mpg.de/)[[code]](https://github.com/anuragranj/coma)
 
 
 
