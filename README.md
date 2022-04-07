@@ -209,6 +209,9 @@ Qixing Huang, Xiangru Huang, Bo Sun, Zaiwei Zhang, Junfeng Jiang, Chandrajit Baj
 Jongyoo Kim, Jiaolong Yang, Xin Tong</br>
 [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Learning_High-Fidelity_Face_Texture_Completion_Without_Complete_Face_Texture_ICCV_2021_paper.pdf)
 
++ **Fake It Till You Make It: Face analysis in the wild using synthetic data alone**</br>
+Erroll Wood, Tadas Baltrušaitis, Charlie Hewitt, Sebastian Dziadzio, Matthew Johnson, Virginia Estellers, Thomas J. Cashman, Jamie Shotton</br>
+[[arxiv]](https://arxiv.org/abs/2109.15102)[[page]](https://microsoft.github.io/FaceSynthetics/)
 
 
 ### 2019
