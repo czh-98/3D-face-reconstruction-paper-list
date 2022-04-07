@@ -19,6 +19,9 @@ Philip-William Grassal Malte Prinzler, Titus Leistner, Carsten Rother, Matthias 
 Yufeng Zheng, Victoria Fernández Abrevaya, Marcel C. Bühler, Xu Chen, Michael J. Black, Otmar Hilliges</br>
 [[arxiv]](https://arxiv.org/abs/2112.07471)[[page]](https://ait.ethz.ch/projects/2022/IMavatar/)
 
++ **FaceVerse: a Fine-grained and Detail-controllable 3D Face Morphable Model from a Hybrid Dataset**</br>
+Lizhen Wang, Zhiyuan Chen, Tao Yu, Chenguang Ma, Liang Li, Yebin Liu</br>
+[[arxiv]](https://arxiv.org/abs/2203.14057)[[code]](https://github.com/LizhenWangT/FaceVerse)
 
 
 ### 2021
