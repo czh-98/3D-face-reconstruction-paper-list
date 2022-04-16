@@ -23,6 +23,10 @@ Yufeng Zheng, Victoria Fernández Abrevaya, Marcel C. Bühler, Xu Chen, Michael 
 Lizhen Wang, Zhiyuan Chen, Tao Yu, Chenguang Ma, Liang Li, Yebin Liu</br>
 [[arxiv]](https://arxiv.org/abs/2203.14057)[[code]](https://github.com/LizhenWangT/FaceVerse)
 
++ **3D Shape Variational Autoencoder Latent Disentanglement via Mini-Batch Feature Swapping for Bodies and Faces**</br>
+Simone Foti, Bongjin Koo, Danail Stoyanov, Matthew J. Clarkson</br>
+[[arxiv]](https://arxiv.org/abs/2111.12448)[[code]](https://github.com/simofoti/3dvae-swapdisentangled)
+
 
 ### 2021
 + **Inverting Generative Adversarial Renderer for Face Reconstruction**</br>
@@ -242,6 +246,9 @@ Shichen Liu, Tianye Li, Weikai Chen, Hao Li</br>
 Giorgos Bouritsas, Sergiy Bokhnyak, Stylianos Ploumpis, Michael Bronstein, Stefanos Zafeiriou</br>
 [[arxiv]](https://arxiv.org/abs/1905.02876)[[code]](https://github.com/gbouritsas/Neural3DMM)
 
++ **A Decoupled 3D Facial Shape Model by Adversarial Training**</br>
+Victoria Fernandez Abrevaya, Adnane Boukhayma, Stefanie Wuhrer, Edmond Boyer</br>
+[[arxiv]](https://arxiv.org/abs/1902.03619)
 
 
 
@@ -380,5 +387,53 @@ James Booth, Anastasios Roussos, Allan Ponniah, David Dunaway, Stefanos Zafeirio
 
 ## TPAMI
 
+### 2022
+
++ **Beyond 3DMM: Learning to Capture High-fidelity 3D Face Shape**</br>
+Xiangyu Zhu, Chang Yu, Di Huang, Zhen Lei, Hao Wang, Stan Z. Li</br>
+[[arxiv]](https://arxiv.org/abs/2204.04379)
+
+
+
+### 2021
+
++ **AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs**</br>
+Alexandros Lattas, Stylianos Moschoglou, Stylianos Ploumpis, Baris Gecer, Abhijeet Ghosh, Stefanos Zafeiriou</br>
+[[arxiv]](https://arxiv.org/abs/2112.05957)[[page]](https://github.com/lattas/avatarme)
+
+
++ **Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction**</br>
+Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou</br>
+[[arxiv]](https://arxiv.org/abs/2105.07474)[[code]](https://github.com/barisgecer/ganfit)
+
+### 2020
++ **Towards a complete 3D morphable model of the human head**</br>
+Stylianos Ploumpis, Evangelos Ververas, Eimear O' Sullivan, Stylianos Moschoglou, Haoyang Wang, Nick Pears, William A. P. Smith, Baris Gecer, Stefanos Zafeiriou</br>
+[[arxiv]](https://arxiv.org/abs/1911.08008)[[page]](https://github.com/steliosploumpis/Universal_Head_3DMM)
+
+
+### 2019
++ **On Learning 3D Face Morphable Model from In-the-wild Images**</br>
+Luan Tran, Xiaoming Liu</br>
+[[arxiv]](https://arxiv.org/abs/1808.09560)[[page]](http://cvlab.cse.msu.edu/project-nonlinear-3dmm.html)[[code]](https://github.com/tranluan/Nonlinear_Face_3DMM)
+
+
+
+### 2018
++ **High-Fidelity Monocular Face Reconstruction Based on an Unsupervised Model-Based Face Autoencoder**</br>
+Ayush Tewari, Michael Zollhöfer, Florian Bernard, Pablo Garrido, Hyeongwoo Kim, Patrick Pérez, Christian Theobalt</br>
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/8496850)
+
+
+
 ## TIP
 
+### 2021
++ **SADRNet: Self-Aligned Dual Face Regression Networks for Robust 3D Dense Face Alignment and Reconstruction**</br>
+Zeyu Ruan, Changqing Zou, Longhai Wu, Gangshan Wu, Limin Wang</br>
+[[arxiv]](https://arxiv.org/abs/2106.03021)[[code]](https://github.com/MCG-NJU/SADRNet)
+  
+### 2020
++ **Self-supervised Learning of Detailed 3D Face Reconstruction**</br>
+Yajing Chen, Fanzi Wu, Zeyu Wang, Yibing Song, Yonggen Ling, Linchao Bao</br>
+[[arxiv]](https://arxiv.org/abs/1910.11791)[[code]](https://github.com/cyj907/unsupervised-detail-layer)
