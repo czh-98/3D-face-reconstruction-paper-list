@@ -27,6 +27,12 @@ Lizhen Wang, Zhiyuan Chen, Tao Yu, Chenguang Ma, Liang Li, Yebin Liu</br>
 Simone Foti, Bongjin Koo, Danail Stoyanov, Matthew J. Clarkson</br>
 [[arxiv]](https://arxiv.org/abs/2111.12448)[[code]](https://github.com/simofoti/3dvae-swapdisentangled)
 
++ **EMOCA: Emotion Driven Monocular Face Capture and Animation**</br>
+Radek Danecek, Michael J. Black, Timo Bolkart</br>
+[[arxiv]](https://arxiv.org/abs/2204.11312)[[code]](https://github.com/radekd91/emoca)[[page]](https://emoca.is.tue.mpg.de/)
+
+
+
 
 ### 2021
 + **Inverting Generative Adversarial Renderer for Face Reconstruction**</br>
