@@ -31,6 +31,9 @@ Simone Foti, Bongjin Koo, Danail Stoyanov, Matthew J. Clarkson</br>
 Radek Danecek, Michael J. Black, Timo Bolkart</br>
 [[arxiv]](https://arxiv.org/abs/2204.11312)[[code]](https://github.com/radekd91/emoca)[[page]](https://emoca.is.tue.mpg.de/)
 
++ **DAD-3DHeads: A Large-Scale Dense, Accurate and Diverse Dataset for 3D Head Alignment From a Single Image**</br>
+Tetiana Martyniuk, Orest Kupyn, Yana Kurlyak, Igor Krashenyi, Jiři Matas, Viktoriia Sharmanska</br>
+[[arxiv]](https://arxiv.org/abs/2204.03688)[[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.pdf)[[page]](https://www.pinatafarm.com/research/dad-3dheads)
 
 
 
