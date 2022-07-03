@@ -31,6 +31,9 @@ Simone Foti, Bongjin Koo, Danail Stoyanov, Matthew J. Clarkson</br>
 Radek Danecek, Michael J. Black, Timo Bolkart</br>
 [[arxiv]](https://arxiv.org/abs/2204.11312)[[code]](https://github.com/radekd91/emoca)[[page]](https://emoca.is.tue.mpg.de/)
 
++ **ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations**</br>
+Mingwu Zheng, Hongyu Yang, Di Huang, Liming Chen</br>
+[[arxiv]](https://arxiv.org/abs/2203.14510)[[code]](https://github.com/mingwuzheng/imface)
 
 
 
@@ -290,6 +293,7 @@ Lei Jiang, Xiao-Jun Wu, Josef Kittler</br>
 
 
 ## ECCV
+
 
 ### 2020
 + **Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction**</br>
