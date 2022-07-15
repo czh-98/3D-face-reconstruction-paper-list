@@ -294,6 +294,20 @@ Lei Jiang, Xiao-Jun Wu, Josef Kittler</br>
 
 ## ECCV
 
+### 2022
+
++ **REALY: Rethinking the Evaluation of 3D Face Reconstruction**</br>
+Zenghao Chai, Haoxian Zhang, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao</br>
+[[arxiv]](https://arxiv.org/abs/2203.09729)[[code]](https://github.com/czh-98/REALY)[[page]](https://www.realy3dface.com/)
+
+
+
++ **Towards Metrical Reconstruction of Human Faces**</br>
+Wojciech Zielonka, Timo Bolkart, Justus Thies</br>
+[[arxiv]](https://arxiv.org/abs/2204.06607)[[code]](https://github.com/Zielon/MICA)[[page]](https://zielon.github.io/mica/)
+
+
+
 
 ### 2020
 + **Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction**</br>
@@ -321,7 +335,13 @@ Evangelos Sariyanidi, Casey J. Zampella, Robert T. Schultz, Birkan Tunc</br>
 
 + **“Look Ma, no landmarks!” – Unsupervised, model-based dense face alignment**</br>
 Tatsuro Koizumi and William A. P. Smith</br>
-[[pdf]]([ecva.net/papers/eccv_2020/papers_ECCV/papers/123540409.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470681.pdf))[[page]](https://github.com/kzmttr/UMDFA)
+[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470681.pdf))[[page]](https://github.com/kzmttr/UMDFA)
+
++ **Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks**</br>
+Baris Gecer, Alexander Lattas, Stylianos Ploumpis, Jiankang Deng, Athanasios Papaioannou, Stylianos Moschoglou, Stefanos Zafeiriou</br>
+[[arxiv]](https://arxiv.org/abs/1909.02215))[[code]](https://github.com/barisgecer/TBGAN)
+
+
 
 ### 2018
 + **Generating 3D faces using Convolutional Mesh Autoencoders**</br>
