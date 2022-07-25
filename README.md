@@ -35,6 +35,13 @@ Radek Danecek, Michael J. Black, Timo Bolkart</br>
 Mingwu Zheng, Hongyu Yang, Di Huang, Liming Chen</br>
 [[arxiv]](https://arxiv.org/abs/2203.14510)[[code]](https://github.com/mingwuzheng/imface)
 
++ **Generating Diverse 3D Reconstructions from a Single Occluded Face Image**</br>
+Rahul Dey, Vishnu Naresh Boddeti</br>
+[[arxiv]](https://arxiv.org/abs/2112.00879)[[code]](https://github.com/human-analysis/diverse3dface)
+
++ **DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image**</br>
+Tetiana Martyniuk, Orest Kupyn, Yana Kurlyak, Igor Krashenyi, Jiři Matas, Viktoriia Sharmanska</br>
+[[arxiv]](https://arxiv.org/abs/2204.03688)[[code]](https://github.com/PinataFarms/DAD-3DHeads)
 
 
 ### 2021
@@ -48,6 +55,7 @@ Mallikarjun B R, Ayush Tewari, Hans-Peter Seidel, Mohamed Elgharib, Christian Th
 + **Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection**</br>
 Zhenyu Zhang, Yanhao Ge, Renwang Chen, Ying Tai, Yan Yan, Jian Yang, Chengjie Wang, Jilin Li, Feiyue Huang</br>
 [[arxiv]](https://arxiv.org/abs/2106.07852)[[code]](https://github.com/TencentYoutuResearch/3DFaceReconstruction-LAP)
+
 + **Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement**</br>
 Huiwen Luo, Koki Nagano, Han-Wei Kung, Mclean Goldwhite, Qingguo Xu, Zejian Wang, Lingyu Wei, Liwen Hu, Hao Li</br>
 [[arxiv]](https://arxiv.org/abs/2106.11423)
@@ -301,12 +309,17 @@ Zenghao Chai, Haoxian Zhang, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Y
 [[arxiv]](https://arxiv.org/abs/2203.09729)[[code]](https://github.com/czh-98/REALY)[[page]](https://www.realy3dface.com/)
 
 
-
 + **Towards Metrical Reconstruction of Human Faces**</br>
 Wojciech Zielonka, Timo Bolkart, Justus Thies</br>
 [[arxiv]](https://arxiv.org/abs/2204.06607)[[code]](https://github.com/Zielon/MICA)[[page]](https://zielon.github.io/mica/)
 
++ **Structure-aware Editable Morphable Model for 3D Facial Detail Animation and Manipulation**</br>
+Jingwang Ling, Zhibo Wang, Ming Lu, Quan Wang, Chen Qian, Feng Xu</br>
+[[arxiv]](https://arxiv.org/abs/2207.09019)[[code]](https://github.com/gerwang/facial-detail-manipulation)
 
++ **3D face reconstruction with dense landmarks**</br>
+Erroll Wood, Tadas Baltrusaitis, Charlie Hewitt, Matthew Johnson, Jingjing Shen, Nikola Milosavljevic, Daniel Wilde, Stephan Garbin, Chirag Raman, Jamie Shotton, Toby Sharp, Ivan Stojiljkovic, Tom Cashman, Julien Valentin</br>
+[[arxiv]](https://arxiv.org/abs/2204.02776)[[page]](https://microsoft.github.io/DenseLandmarks/)
 
 
 ### 2020
