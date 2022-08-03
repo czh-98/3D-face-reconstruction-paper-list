@@ -320,6 +320,10 @@ Jingwang Ling, Zhibo Wang, Ming Lu, Quan Wang, Chen Qian, Feng Xu</br>
 + **3D face reconstruction with dense landmarks**</br>
 Erroll Wood, Tadas Baltrusaitis, Charlie Hewitt, Matthew Johnson, Jingjing Shen, Nikola Milosavljevic, Daniel Wilde, Stephan Garbin, Chirag Raman, Jamie Shotton, Toby Sharp, Ivan Stojiljkovic, Tom Cashman, Julien Valentin</br>
 [[arxiv]](https://arxiv.org/abs/2204.02776)[[page]](https://microsoft.github.io/DenseLandmarks/)
+  
++ **MoFaNeRF: Morphable Facial Neural Radiance Field**</br>
+Yiyu Zhuang, Hao Zhu, Xusen Sun, Xun Cao</br>
+[[arxiv]](https://arxiv.org/abs/2112.02308)[[code]](https://github.com/zhuhao-nju/mofanerf)
 
 
 ### 2020
@@ -348,11 +352,11 @@ Evangelos Sariyanidi, Casey J. Zampella, Robert T. Schultz, Birkan Tunc</br>
 
 + **“Look Ma, no landmarks!” – Unsupervised, model-based dense face alignment**</br>
 Tatsuro Koizumi and William A. P. Smith</br>
-[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470681.pdf))[[page]](https://github.com/kzmttr/UMDFA)
+[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470681.pdf)[[page]](https://github.com/kzmttr/UMDFA)
 
 + **Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks**</br>
 Baris Gecer, Alexander Lattas, Stylianos Ploumpis, Jiankang Deng, Athanasios Papaioannou, Stylianos Moschoglou, Stefanos Zafeiriou</br>
-[[arxiv]](https://arxiv.org/abs/1909.02215))[[code]](https://github.com/barisgecer/TBGAN)
+[[arxiv]](https://arxiv.org/abs/1909.02215)[[code]](https://github.com/barisgecer/TBGAN)
 
 
 
