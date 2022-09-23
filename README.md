@@ -85,6 +85,10 @@ Tarun Yenamandra, Ayush Tewari, Florian Bernard, Hans-Peter Seidel, Mohamed Elgh
 Lele Chen, Chen Cao, Fernando De la Torre, Jason Saragih, Chenliang Xu, Yaser Sheikh</br>
 [[arxiv]](https://arxiv.org/abs/2103.15876)[[page]](https://www.cs.rochester.edu/u/lchen63/cvpr21/index.html)
 
++ **Learning Feature Aggregation for Deep 3D Morphable Models**</br>
+Zhixiang Chen, Tae-Kyun Kim</br>
+[[arxiv]](https://arxiv.org/abs/2105.02173)[[code]](https://github.com/zxchen110/Deep3DMM)
+
 
 ### 2020
 + **A Morphable Face Albedo Model** </br>
@@ -368,6 +372,13 @@ Anurag Ranjan, Timo Bolkart, Soubhik Sanyal, Michael J. Black</br>
 
 
 ## SIGGRAPH/TOG
+
+### 2022
++ **Deep Deformable 3D Caricatures with Learned Shape Control**</br>
+Yucheol Jung, Wonjong Jang, Soongjin Kim, Jiaolong Yang, Xin Tong, Seungyong Lee</br>
+[[arxiv]](https://arxiv.org/abs/2207.14593)[[page]](https://ycjungsubhuman.github.io/DeepDeformable3DCaricatures)[[code]](https://github.com/ycjungsubhuman/deepdeformable3dcaricatures)
+
+
 
 ### 2021
 + **High-Fidelity 3D Digital Human Head Creation from RGB-D Selfies**</br>
