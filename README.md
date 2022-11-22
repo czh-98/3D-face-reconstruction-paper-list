@@ -312,7 +312,6 @@ Lei Jiang, Xiao-Jun Wu, Josef Kittler</br>
 Zenghao Chai, Haoxian Zhang, Jing Ren, Di Kang, Zhengzhuo Xu, Xuefei Zhe, Chun Yuan, Linchao Bao</br>
 [[arxiv]](https://arxiv.org/abs/2203.09729)[[code]](https://github.com/czh-98/REALY)[[page]](https://www.realy3dface.com/)
 
-
 + **Towards Metrical Reconstruction of Human Faces**</br>
 Wojciech Zielonka, Timo Bolkart, Justus Thies</br>
 [[arxiv]](https://arxiv.org/abs/2204.06607)[[code]](https://github.com/Zielon/MICA)[[page]](https://zielon.github.io/mica/)
@@ -328,6 +327,10 @@ Erroll Wood, Tadas Baltrusaitis, Charlie Hewitt, Matthew Johnson, Jingjing Shen,
 + **MoFaNeRF: Morphable Facial Neural Radiance Field**</br>
 Yiyu Zhuang, Hao Zhu, Xusen Sun, Xun Cao</br>
 [[arxiv]](https://arxiv.org/abs/2112.02308)[[code]](https://github.com/zhuhao-nju/mofanerf)
+
++ **Towards Racially Unbiased Skin Tone Estimation via Scene Disambiguation**</br>
+Haiwen Feng, Timo Bolkart, Joachim Tesch, Michael J. Black, Victoria Abrevaya</br>
+[[arxiv]](https://arxiv.org/abs/2205.03962)[[code]](https://github.com/HavenFeng/TRUST)[[page]](https://trust.is.tue.mpg.de/)
 
 
 ### 2020
