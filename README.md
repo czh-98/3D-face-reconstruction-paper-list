@@ -123,6 +123,11 @@ Gun-Hee Lee, Seong-Whan Lee</br>
 Shangzhe Wu, Christian Rupprecht, Andrea Vedaldi</br>
 [[arxiv]](https://arxiv.org/abs/1911.11130)[[page]](https://elliottwu.com/projects/unsup3d/)[[code]](https://github.com/elliottwu/unsup3d)
 
++ **Deep 3D Portrait from a Single Image**</br>
+Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong</br>
+[[arxiv]](https://arxiv.org/abs/2004.11598)[[code]](https://github.com/sicxu/Deep3dPortrait)
+
+
 
 ### 2019
 + **Combining 3D Morphable Models: A Large scale Face-and-Head Model**</br>
