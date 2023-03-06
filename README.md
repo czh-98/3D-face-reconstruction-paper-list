@@ -5,6 +5,24 @@ Paper list of some 3D face reconstruction. To be continued.
 
 ## CVPR 
 
+### 2023
+
++ **A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-The-Wild Images**</br>
+Biwen Lei, Jianqiang Ren, Mengyang Feng, Miaomiao Cui, Xuansong Xie</br>
+[[arxiv]](https://arxiv.org/abs/2302.14434)
+
++ **Learning Neural Parametric Head Models**</br>
+Simon Giebenhain, Tobias Kirschstein, Markos Georgopoulos, Martin Rünz, Lourdes Agapito, Matthias Nießner</br>
+[[arxiv]](https://arxiv.org/abs/2212.02761)[[page]](https://simongiebenhain.github.io/NPHM)
+
++ **High-Res Facial Appearance Capture from Polarized Smartphone Images**</br>
+Dejan Azinović, Olivier Maury, Christophe Hery, Mathias Nießner, Justus Thies</br>
+[[arxiv]](https://arxiv.org/abs/2212.01160)[[page]](https://dazinovic.github.io/polface/)
+
++ **FFHQ-UV: Normalized Facial UV-Texture Dataset for 3D Face Reconstruction**</br>
+Haoran Bai, Di Kang, Haoxian Zhang, Jinshan Pan, Linchao Bao</br>
+[[arxiv]](https://arxiv.org/abs/2211.13874)[[code]](https://github.com/csbhr/FFHQ-UV)
+
 ### 2022
 + **3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow**</br>
 Xin Wen, Junsheng Zhou, Yu-Shen Liu, Zhen Dong, Zhizhong Han</br>
@@ -127,7 +145,9 @@ Shangzhe Wu, Christian Rupprecht, Andrea Vedaldi</br>
 Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong</br>
 [[arxiv]](https://arxiv.org/abs/2004.11598)[[code]](https://github.com/sicxu/Deep3dPortrait)
 
-
++ **Learning Formation of Physically-Based Face Attributes**</br>
+Ruilong Li, Karl Bladin, Yajie Zhao, Chinmay Chinara, Owen Ingraham, Pengda Xiang, Xinglei Ren, Pratusha Prasad, Bipin Kishore, Jun Xing, Hao Li</br>
+[[arxiv]](https://arxiv.org/abs/2004.11598)
 
 ### 2019
 + **Combining 3D Morphable Models: A Large scale Face-and-Head Model**</br>
