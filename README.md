@@ -7,9 +7,25 @@ Paper list of some 3D face reconstruction. To be continued.
 
 ### 2023
 
++ **MEGANE: Morphable Eyeglass and Avatar Network**</br>
+Junxuan Li, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Hongdong Li, Jason Saragih</br>
+[[arxiv]](https://arxiv.org/abs/2302.04868)[[page]](https://junxuan-li.github.io/megane/)
+
++ **Towards Effective Adversarial Textured 3D Meshes on Physical Face Recognition**</br>
+Xiao Yang, Chang Liu, Longlong Xu, Yikai Wang, Yinpeng Dong, Ning Chen, Hang Su, Jun Zhu</br>
+[[arxiv]](https://arxiv.org/abs/2303.15818)
+
++ **Robust Model-based Face Reconstruction through Weakly-Supervised Outlier Segmentation**</br>
+Chunlu Li, Andreas Morel-Forster, Thomas Vetter, Bernhard Egger, Adam Kortylewski</br>
+[[arxiv]](https://arxiv.org/abs/2106.09614)[[code]](https://github.com/unibas-gravis/Occlusion-Robust-MoFA)
+
++ **Learning a 3D Morphable Face Reflectance Model from Low-cost Data**</br>
+Yuxuan Han, Zhibo Wang, Feng Xu</br>
+[[arxiv]](https://arxiv.org/abs/2303.11686)[[code]](https://github.com/yxuhan/ReflectanceMM)[[page]](https://yxuhan.github.io/ReflectanceMM/index.html)
+
 + **A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-The-Wild Images**</br>
 Biwen Lei, Jianqiang Ren, Mengyang Feng, Miaomiao Cui, Xuansong Xie</br>
-[[arxiv]](https://arxiv.org/abs/2302.14434)
+[[arxiv]](https://arxiv.org/abs/2302.14434)[[code]](https://github.com/youngLBW/HRN)[[page]](https://younglbw.github.io/HRN-homepage/)
 
 + **Learning Neural Parametric Head Models**</br>
 Simon Giebenhain, Tobias Kirschstein, Markos Georgopoulos, Martin Rünz, Lourdes Agapito, Matthias Nießner</br>
