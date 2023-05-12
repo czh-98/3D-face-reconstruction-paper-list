@@ -39,6 +39,12 @@ Dejan Azinović, Olivier Maury, Christophe Hery, Mathias Nießner, Justus Thies<
 Haoran Bai, Di Kang, Haoxian Zhang, Jinshan Pan, Linchao Bao</br>
 [[arxiv]](https://arxiv.org/abs/2211.13874)[[code]](https://github.com/csbhr/FFHQ-UV)
 
++ **High-Fidelity 3D Face Generation from Natural Language Descriptions**</br>
+Menghua Wu, Hao Zhu, Linjia Huang, Yiyu Zhuang, Yuanxun Lu, Xun Cao</br>
+[[arxiv]](https://arxiv.org/abs/2305.03302)[[code]](https://github.com/zhuhao-nju/describe3d)
+
+
+
 ### 2022
 + **3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow**</br>
 Xin Wen, Junsheng Zhou, Yu-Shen Liu, Zhen Dong, Zhizhong Han</br>
@@ -398,7 +404,7 @@ Evangelos Sariyanidi, Casey J. Zampella, Robert T. Schultz, Birkan Tunc</br>
 [[pdf]](ecva.net/papers/eccv_2020/papers_ECCV/papers/123540409.pdf)[[code]](https://github.com/sariyanidi/3DI)
 
 
-+ **“Look Ma, no landmarks!” – Unsupervised, model-based dense face alignment**</br>
++ **“Look Ma, no landmarks!�? �? Unsupervised, model-based dense face alignment**</br>
 Tatsuro Koizumi and William A. P. Smith</br>
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470681.pdf)[[page]](https://github.com/kzmttr/UMDFA)
 
@@ -416,6 +422,20 @@ Anurag Ranjan, Timo Bolkart, Soubhik Sanyal, Michael J. Black</br>
 
 
 ## SIGGRAPH/TOG
+
+### 2023
++ **DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance**</br>
+Longwen Zhang, Qiwei Qiu, Hongyang Lin, Qixuan Zhang, Cheng Shi, Wei Yang, Ye Shi, Sibei Yang, Lan Xu, Jingyi Yu</br>
+[[arxiv]](https://arxiv.org/abs/2304.03117)[[page]](https://sites.google.com/view/dreamface)
+
++ **HACK: Learning a Parametric Head and Neck Model for High-fidelity Animation**</br>
+Longwen Zhang, Zijun Zhao, Xinzhou Cong, Qixuan Zhang, Shuqi Gu, Yuchong Gao, Rui Zheng, Wei Yang, Lan Xu, Jingyi Yu</br>
+[[arxiv]](https://arxiv.org/abs/2305.04469)[[code]](https://github.com/ZoneLikeWonderland/HACK-Model)
+
++ **Single-Shot Implicit Morphable Faces with Consistent Texture Parameterization**</br>
+Connor Z. Lin, Koki Nagano, Jan Kautz, Eric R. Chan, Umar Iqbal, Leonidas Guibas, Gordon Wetzstein, Sameh Khamis</br>
+[[arxiv]](https://arxiv.org/abs/2305.03043)[[page]](https://research.nvidia.com/labs/toronto-ai/ssif/)
+
 
 ### 2022
 + **Deep Deformable 3D Caricatures with Learned Shape Control**</br>
