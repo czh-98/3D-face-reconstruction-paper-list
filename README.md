@@ -7,6 +7,18 @@ Paper list of some 3D face reconstruction. To be continued.
 
 ### 2023
 
++ **PointAvatar: Deformable Point-based Head Avatars from Videos**</br>
+Yufeng Zheng, Wang Yifan, Gordon Wetzstein, Michael J. Black, Otmar Hilliges</br>
+[[arxiv]](https://arxiv.org/abs/2212.08377)[[code]](https://github.com/zhengyuf/pointavatar)[[page]](https://zhengyuf.github.io/PointAvatar/)
+
++ **Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion**</br>
+Tengfei Wang, Bo Zhang, Ting Zhang, Shuyang Gu, Jianmin Bao, Tadas Baltrusaitis, Jingjing Shen, Dong Chen, Fang Wen, Qifeng Chen, Baining Guo</br>
+[[arxiv]](https://arxiv.org/abs/2212.06135)[[page]](https://3d-avatar-diffusion.microsoft.com/)
+
++ **Improving Fairness in Facial Albedo Estimation via Visual-Textual Cues**</br>
+Xingyu Ren, Jiankang Deng, Chao Ma, Yichao Yan, Xiaokang Yang</br>
+[[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ren_Improving_Fairness_in_Facial_Albedo_Estimation_via_Visual-Textual_Cues_CVPR_2023_paper.pdf)[[page]](https://xingyuren-cn.github.io/id2albedo/)
+
 + **MEGANE: Morphable Eyeglass and Avatar Network**</br>
 Junxuan Li, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Hongdong Li, Jason Saragih</br>
 [[arxiv]](https://arxiv.org/abs/2302.04868)[[page]](https://junxuan-li.github.io/megane/)
@@ -46,6 +58,10 @@ Menghua Wu, Hao Zhu, Linjia Huang, Yiyu Zhuang, Yuanxun Lu, Xun Cao</br>
 
 
 ### 2022
++ **RigNeRF: Fully Controllable Neural 3D Portraits**</br>
+ShahRukh Athar, Zexiang Xu, Kalyan Sunkavalli, Eli Shechtman, Zhixin Shu</br>
+[[arxiv]](https://arxiv.org/abs/2206.06481)[[page]](http://shahrukhathar.github.io/2022/06/06/RigNeRF.html)
+
 + **3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow**</br>
 Xin Wen, Junsheng Zhou, Yu-Shen Liu, Zhen Dong, Zhizhong Han</br>
 [[arxiv]](https://arxiv.org/abs/2203.15190)[[code]](https://github.com/junshengzhou/3DAttriFlow)
@@ -242,6 +258,11 @@ Brian Amberg, Sami Romdhani, Thomas Vetter</br>
 
 ## CVPRW
 
+### 2023
++ **SPECTRE: Visual Speech-Aware Perceptual 3D Facial Expression Reconstruction from Videos**</br>
+Panagiotis P. Filntisis, George Retsinas, Foivos Paraperas-Papantoniou, Athanasios Katsamanis, Anastasios Roussos, Petros Maragos</br>
+[[arxiv]](https://arxiv.org/abs/2207.11094)[[code]](https://github.com/filby89/spectre)[[page]](https://filby89.github.io/spectre/)
+
 ### 2020
 + **Semi-supervised 3D Face Representation Learning from Unconstrained Photo Collections**</br>
 Zhongpai Gao, Juyong Zhang, Yudong Guo, Chao Ma, Guangtao Zhai, Xiaokang Yang</br>
@@ -257,6 +278,16 @@ Yury Kartynnik, Artsiom Ablavatski, Ivan Grishchenko, Matthias Grundmann</br>
 
 
 ## ICCV
+
+### 2023
++ **HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details**</br>
+Zenghao Chai, Tianke Zhang, Tianyu He, Xu Tan, Tadas Baltrusaitis, HsiangTao Wu, Runnan Li, Sheng Zhao, Chun Yuan, Jiang Bian</br>
+[[arxiv]](https://arxiv.org/abs/2303.11225)[[code]](https://project-hiface.github.io/)
+
++ **Relightify: Relightable 3D Faces from a Single Image via Diffusion Models**</br>
+Foivos Paraperas Papantoniou, Alexandros Lattas, Stylianos Moschoglou, Stefanos Zafeiriou</br>
+[[arxiv]](https://arxiv.org/abs/2305.06077)[[page]](https://foivospar.github.io/Relightify/)
+
 ### 2021
 + **H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction**</br>
 Eduard Ramon, Gil Triginer, Janna Escur, Albert Pumarola, Jaime Garcia, Xavier Giro-i-Nieto, Francesc Moreno-Noguer</br>
@@ -436,6 +467,10 @@ Longwen Zhang, Zijun Zhao, Xinzhou Cong, Qixuan Zhang, Shuqi Gu, Yuchong Gao, Ru
 Connor Z. Lin, Koki Nagano, Jan Kautz, Eric R. Chan, Umar Iqbal, Leonidas Guibas, Gordon Wetzstein, Sameh Khamis</br>
 [[arxiv]](https://arxiv.org/abs/2305.03043)[[page]](https://research.nvidia.com/labs/toronto-ai/ssif/)
 
++ **ClipFace: Text-guided Editing of Textured 3D Morphable Models**</br>
+Shivangi Aneja, Justus Thies, Angela Dai, Matthias Nieﬂner</br>
+[[arxiv]](https://arxiv.org/abs/2212.01406)
+[[code]](https://github.com/shivangi-aneja/ClipFace)[[page]](https://shivangi-aneja.github.io/projects/clipface/)
 
 ### 2022
 + **Deep Deformable 3D Caricatures with Learned Shape Control**</br>
